@@ -1,0 +1,7 @@
+{
+  "hello": "Hello World!",
+  "welcome": "Welcome to Next.js with Internationalization",
+  "description": "This is a simple example of a multilingual Next.js application.",
+  "switchLanguage": "Switch to Arabic",
+  "currentLanguage": "Current Language: English"
+}
